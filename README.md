@@ -5,8 +5,6 @@
 ## 📗 Velog 📗
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=syub98774)](https://velog.io/@syub98774)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=syub98774)](https://velog.io/@syub98774)
-
 ## 🪄 Tech stack 🪄
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=white)
