@@ -27,8 +27,7 @@
 ![](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 🖥️ Studying 🖥️
+![](https://img.shields.io/badge/tailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white)
-![](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=syub98774)](https://solved.ac/syub98774)
