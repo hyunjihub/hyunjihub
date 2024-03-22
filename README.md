@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🍒 WELCOME TO HYUNJI GITHUB 🍒
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjihub&layout=compact)](https://github.com/hyunjihub/github-readme-stats)
@@ -15,8 +17,8 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white)
 ![](https://img.shields.io/badge/Reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![](https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ## 🔧 Tool 🔧
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -24,12 +26,14 @@
 ![](https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 ![](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 🖥️ Studying 🖥️
-![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Reactquery-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=syub98774)](https://solved.ac/syub98774)
+
+</div>
