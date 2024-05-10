@@ -28,10 +28,10 @@
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 🖥️ Studying 🖥️
-![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/Reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
+![](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=syub98774)](https://solved.ac/syub98774)
 
