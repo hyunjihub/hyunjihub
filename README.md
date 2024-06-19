@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ## 🖥️ Studying 🖥️
 ![](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
