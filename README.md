@@ -2,8 +2,6 @@
   
 # 🍒 WELCOME TO HYUNJI GITHUB 🍒
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjihub&layout=compact)](https://github.com/hyunjihub/github-readme-stats)
-
 ## 📗 Velog 📗
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=syub98774)](https://velog.io/@syub98774)
 
@@ -97,6 +95,7 @@
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=syub98774)](https://solved.ac/syub98774)
 
