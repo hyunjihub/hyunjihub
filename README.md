@@ -15,7 +15,7 @@
   <summary><strong><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React Badge" /></strong></summary>
   
 ###### 컴포넌트 기반 아키텍처를 사용하여 재사용 가능하고 유지보수가 용이한 UI를 구축할 수 있습니다.
-###### useState를 통해 컴포넌트의 상태를 효율적으로 관리할 수 있습니다..
+###### useState를 통해 컴포넌트의 상태를 효율적으로 관리할 수 있습니다.
 ###### Intersection Observer API를 활용하여 스크롤 위치를 감지하고, 커스텀 훅을 통해 무한 스크롤 기능을 구현할 수 있습니다.
 
 </details>
