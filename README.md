@@ -1,14 +1,14 @@
 <div align="center">
   
-# 🍒 WELCOME TO HYUNJI GITHUB 🍒
+## 🍒 WELCOME TO HYUNJI GITHUB 🍒
 
 ## 📗 Velog 📗
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=syub98774)](https://velog.io/@syub98774)
 
-###### Velog를 통해 공부 및 알고리즘 풀이, 프로젝트 정리 등을 업로드하고 있습니다.
+##### Velog를 통해 공부 및 알고리즘 풀이, 프로젝트 정리 등을 업로드하고 있습니다.
 
 ## 🪄 Tech stack 🪄
-###### 기술 스택을 클릭 시 해당 기술 관련 성과를 확인할 수 있습니다.
+##### 기술 스택을 클릭 시 해당 기술 관련 성과를 확인할 수 있습니다.
 ![](https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white)
 
 <details>
