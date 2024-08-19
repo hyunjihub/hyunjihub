@@ -66,7 +66,7 @@
 <details>
   <summary><strong><img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="axios Badge" /></strong></summary>
   
-###### 비동기 통신을 처리하고, 비동기 요청의 성공 및 실패 시에 적절한 처리를 구현했습니다. 사용자에게 실시간 데이터를 제공하고, 동적인 UI를 구현할 수 있었습니다.
+###### 비동기 통신을 처리하고, 비동기 요청의 성공 및 실패 시에 적절한 처리를 구현했습니다. 사용자에게 실시간 데이터를 제공하고, 동적인 UI를 구현할 수 있습니다.
 ###### Axios의 내장된 에러 처리 기능을 활용하여 API 요청 중 발생하는 에러를 체계적으로 처리했습니다. 
 ###### API 요청 시 필요한 인증 토큰을 설정하고 관리할 수 있습니다.
 </details>
