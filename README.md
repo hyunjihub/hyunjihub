@@ -71,6 +71,9 @@
 ###### API 요청 시 필요한 인증 토큰을 설정하고 관리할 수 있습니다.
 </details>
 
+![](https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 <details>
   <summary><strong><img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase Badge" /></strong></summary>
   
@@ -91,8 +94,6 @@
 
 ## 🖥️ Studying 🖥️
 ![](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
