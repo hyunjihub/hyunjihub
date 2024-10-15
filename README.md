@@ -19,8 +19,10 @@
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![](https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white)
+
 
 ## 🔧 Tool 🔧
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -30,12 +32,14 @@
 ![](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ## 🖥️ Studying 🖥️
 ![](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/SWR-000000?style=flat-square&logo=swr&logoColor=white)
+![](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=syub98774)](https://solved.ac/syub98774)
 
