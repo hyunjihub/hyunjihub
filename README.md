@@ -38,7 +38,6 @@
 ## 🖥️ Studying 🖥️
 
 ![](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/SWR-000000?style=flat-square&logo=swr&logoColor=white)
