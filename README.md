@@ -18,6 +18,7 @@
 
 ![](https://img.shields.io/badge/Reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Zustand-512BD4?style=flat-square&logo=zustand&logoColor=white)
 ![](https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![](https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 ![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
