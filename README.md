@@ -2,8 +2,10 @@
   
 ## 🍒 WELCOME TO HYUNJI GITHUB 🍒
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=syub98774)](https://velog.io/@syub98774)
 [포트폴리오](https://portfolio-pi-teal-84.vercel.app/)
+[CS 스터디](https://tall-bestseller-c51.notion.site/CS-Computer-Science-195242ce400e80549606f78de8bab2f6?pvs=4)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=syub98774)](https://velog.io/@syub98774)
 
 
 ## 🪄 Tech stack 🪄
