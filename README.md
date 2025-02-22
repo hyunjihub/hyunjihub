@@ -3,6 +3,7 @@
 ## 🍒 WELCOME TO HYUNJI GITHUB 🍒
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=syub98774)](https://velog.io/@syub98774)
+[포트폴리오](https://portfolio-pi-teal-84.vercel.app/)
 
 
 ## 🪄 Tech stack 🪄
