@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Zustand-512BD4?style=flat-square&logo=zustand&logoColor=white)
+![](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![](https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![](https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 ![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
@@ -46,7 +47,7 @@
 ![](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/SWR-000000?style=flat-square&logo=swr&logoColor=white)
-![](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=syub98774)](https://solved.ac/syub98774)
 </div>
