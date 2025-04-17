@@ -2,9 +2,6 @@
   
 ## 🍒 WELCOME TO HYUNJI GITHUB 🍒
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=syub98774)](https://velog.io/@syub98774)
-
-
 ## 🪄 Tech stack 🪄
 
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -47,4 +44,6 @@
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=syub98774)](https://solved.ac/syub98774)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=syub98774)](https://velog.io/@syub98774)
 </div>
